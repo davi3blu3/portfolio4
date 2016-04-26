@@ -35,6 +35,12 @@ footer {
   font-weight: bold;
 }
 
+.i-adjust {
+	position: relative;
+	left: 2px;
+	top: -2px;
+}
+
 	/* remove outer padding */
 	.main .row{
 		padding: 0px;
