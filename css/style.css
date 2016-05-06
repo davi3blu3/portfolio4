@@ -70,6 +70,9 @@ footer {
 	}
 
 	/* .....NavBar: Icon only with coloring/layout.....*/
+    .remove-marg-btm {
+        margin-bottom: 0px;
+    }
 
 	/*small/medium side display*/
 	@media (min-width: 768px) {
