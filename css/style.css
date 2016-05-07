@@ -1,6 +1,25 @@
 body, html, .main {
     margin: 0px;
+    padding: 0px;
 	height: 100%;
+}
+
+/* IMPORT FONTS AND DEFINE STYLES */
+
+@font-face {
+    font-family: Montserrat;
+    src: url('../fonts/Montserrat-Bold.ttf');
+}
+
+h1, h2, h3, h4, h5, h6, ul, li {
+	font-family: Montserrat, Arial, sans-serif;
+	text-align: center;
+}
+
+.title-text {
+	color: white;
+/*	top: 28%;
+	width: 100%;*/
 }
 
 /* COLOR PALETTE */
