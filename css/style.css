@@ -17,9 +17,9 @@ h1, h2, h3, h4, h5, h6, ul, li {
 }
 
 .title-text {
+	position: relative;
 	color: white;
-/*	top: 28%;
-	width: 100%;*/
+	top: 100px;
 }
 
 /* COLOR PALETTE */
